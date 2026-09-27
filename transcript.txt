@@ -1,0 +1,32 @@
+role: system
+Be concise.
+---
+role: user
+hey
+---
+role: assistant
+Hey there!
+---
+role: user
+i need help
+---
+role: assistant
+What do you need help with?
+---
+role: user
+some hw
+---
+role: assistant
+Sure I can assist you with that?
+---
+role: user
+awesome
+---
+role: assistant
+Need help with anything else?
+---
+role: user
+no
+---
+role: assistant
+Goodbye!<|end_conversation|>
